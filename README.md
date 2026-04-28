@@ -25,7 +25,7 @@ That's it. All dependencies (AOSharp.Clientless, NuGet packages) are included in
 ### 1. Clone and Build
 
 ```bash
-git clone https://github.com/lvp12345/Bankbot.git
+git clone https://github.com/lividjoker/bankbot.git
 ```
 
 Open `Bankbot.sln` in Visual Studio and build (F6), or from command line:
